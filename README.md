@@ -16,7 +16,7 @@ Food - Banana, Cake , etc. These items help you restore your health by eating th
 Special ( keys ) - With those items you can unlock doors.
 
 ### Backpack
-You have a backpack where you can store the items you found. The capacity of the is limited , so plan well what you can store. Each item has weight and the more weight the item has , the less space you will have in the bag. You can drop items from the backpack to free some space.
+You have a backpack where you can store the items you found. The capacity of the bag is limited , so plan well what you can store. Each item has weight and the more weight the item has , the less space you will have in the bag. You can drop items from the backpack to free some space.
 
 ## Commands
 ```
